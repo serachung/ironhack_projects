@@ -58,22 +58,15 @@ The 2 projects were based on the same theme: the Health Insurance Market in Braz
 
 [Australia weather forecast](https://github.com/serachung/ironhack_projects/tree/master/P07-weather-forecast) is a supervised learning project, which consists of building a machine learning model that predicts if it's going to rain or not the next day, based on a historical dataset of 10 years of weather conditions. This project was made in a group of 4 people ( link to case github [here](https://github.com/aguiarandre/processo_cientista) )
 
-- sklearn - Standard Scaler, train test split, Cross Validation, K-means, Agglomerative clustering, PCA decomposition Logistic Regression, Decision Tree Classifier, Random Forest, 
+- sklearn - Standard Scaler, train test split, Cross Validation, K-means, Agglomerative clustering, PCA decomposition, Logistic Regression, Decision Tree Classifier, Random Forest
 - yellowbrick - K-elbow method, Silhouette visualizer
 - LightGBM
 - XGBoost
 
 ## Project 08
 
-[Music recommendation system](https://github.com/serachung/ironhack_projects/tree/master/P07-weather-forecast) is a supervised learning project, which consists of building a machine learning model that predicts if it's going to rain or not the next day, based on a historical dataset of 10 years of weather conditions. This project was made in a group of 4 people ( link to case github [here](https://github.com/aguiarandre/processo_cientista) )
+[Music recommendation system](https://github.com/serachung/ironhack_projects/tree/master/P08-grand-finale) is an unsupervised learning project, which consists of building a music recommendation system based on a preference. 
 
-- sklearn - Standard Scaler, train test split, Cross Validation, K-means, Agglomerative clustering, PCA decomposition Logistic Regression, Decision Tree Classifier, Random Forest, 
+- Web-scrapping / API Wrapper
+- sklearn - Standard Scaler, train test split, Cross Validation, K-means, Agglomerative clustering, PCA decomposition, 
 - yellowbrick - K-elbow method, Silhouette visualizer
-- LightGBM
-- XGBoost
-
-
-
-
-
-https://www.makeareadme.com
